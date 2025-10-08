@@ -14,13 +14,14 @@ Playwright HTML Reporter
 Visual Studio Code
 
 ## 📁 Project Structure
-├── tests/                  # Test scenarios
-│   └── mainPage.spec.ts    # Test for the main page
-├── playwright.config.js    # Playwright configuration
-├── test-results/           # Test output
-├── playwright-report/      # HTML report files
-├── package.json            # Project dependencies
-└── README.md               # Project description
+PlaywrightPractice/
+├── tests/ # Test scenarios
+│ └── mainPage.spec.ts # Test for the main page
+├── playwright.config.js # Playwright configuration
+├── test-results/ # Test output
+├── playwright-report/ # HTML report files
+├── package.json # Project dependencies
+└── README.md # Project description
 
 ## ▶️ How to Run the Tests
 
